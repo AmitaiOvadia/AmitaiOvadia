@@ -29,4 +29,5 @@
 <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" width="80" height="22">
 <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" width="80" height="22">
 <img src="https://img.shields.io/badge/skimage-%23F7DF1E.svg?style=for-the-badge&logo=scikit-image&logoColor=black" width="80" height="22">
+<img src="https://img.shields.io/badge/opencv-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white" width="80" height="22">
 </p>
