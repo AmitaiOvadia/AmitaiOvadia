@@ -12,7 +12,13 @@
 </p>
 
 - :books: I’m currently pursuing my master's degree in **Computer Science** at the Hebrew University of Jerusalem. I have recently completed a dual major BSc in **CS & Physics** 
-- :microscope: As per my MSc, I'm part of the [Micro-Flight Lab](https://www.beatus-lab.org/) - We are .........
+- :microscope: As per my MSc, I'm part of the [Micro-Flight Lab](https://www.beatus-lab.org/) - Our goal Understanding the mechanisms of insect flight and implementing them in biomimetic robots
+- my part 
+- ● Developing and deploying a deep learning features and objects detection pipeline,
+    do detect interest points on the insects’ bodies and wings during flight.
+- ● Performing 3D reconstruction and simulation of insects’ Flight and wings’ dynamics,
+    using detections from multiple cameras.
+
 
 <p align="center">
   <b> The tools I use the most :hammer:</b>
