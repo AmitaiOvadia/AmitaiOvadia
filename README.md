@@ -15,7 +15,7 @@
 - :microscope: As per my MSc, I'm part of the [Micro-Flight Lab](https://www.beatus-lab.org/) - Our goal Understanding the mechanisms of insect flight and implementing them in biomimetic robots. <br>
 - My part is Developing and deploying a **deep learning features and objects detection** pipeline,<br>
     to detect interest points on the insects’ bodies and wings during flight.<br>
-  then I'm performing **3D reconstruction and simulation** of insects’ Flight and wings’ dynamics,<br>
+  I'm performing **3D reconstruction and simulation** of insects’ Flight and wings’ dynamics,<br>
     using detections from **multiple high speed cameras**.
 
 
