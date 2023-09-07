@@ -6,7 +6,7 @@
   <b>Welcome to my GitHub :smile:</b>
 </p>
 <p align="center">
-    <a href="https://www.linkedin.com/in/amitai-ovadia/">
+    <a href="https://www.linkedin.com/in/amitai-ovadia-131865248/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"  width="80" height="22"/>
     </a>
    <a href="mailto: amitai.ovadia@mail.huji.ac.il">
