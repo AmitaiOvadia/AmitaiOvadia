@@ -18,6 +18,7 @@
   I'm performing **3D reconstruction and simulation** of insects’ Flight and wings’ dynamics,<br>
     using detections from **multiple high speed cameras**.
 
+- My other projects include all kinds of machine learning, deep learning and computer vision challenges 
 
 <p align="center">
   <b> The tools I use the most :hammer:</b>
