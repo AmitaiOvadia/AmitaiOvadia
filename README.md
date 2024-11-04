@@ -33,3 +33,37 @@
 <img src="https://img.shields.io/badge/skimage-%23F7DF1E.svg?style=for-the-badge&logo=scikit-image&logoColor=black" width="80" height="22">
 <img src="https://img.shields.io/badge/opencv-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white" width="80" height="22">
 </p>
+
+
+
+<h2 align="center">Explore My Work at <a href="https://www.beatus-lab.org/">Micro-Flight Lab</a></h2>
+
+<p>
+  Get a glimpse into the research and development I conducted during my time at the Micro-Flight Lab.
+</p>
+
+### 📹 Raw Video Footage
+<p align="left">
+  Below is a raw video captured by the lab's high-speed cameras, operating at an impressive 16,000 frames per second (fps). For context, the wingbeat frequency here is around 200 Hz.
+</p>
+
+https://github.com/user-attachments/assets/1ed13019-c875-41ce-ad8b-11bbfa9b6acf
+
+
+### 🎥 Video Analysis Pipeline Output
+<p align="left">
+  The following video showcases the output from our video analysis pipeline.
+</p>
+
+
+https://github.com/user-attachments/assets/32de3fc4-4b75-4a7f-87d8-c7543d095f28
+
+On the left side, you’ll see the hand-picked feature points, automatically detected across all four views. This detection is powered by an trained ensemble of deep neural networks, which identifies points in each view independently and then aggregates them into optimal 3D points for the entire multi-view setup.
+
+
+On the right side, you’ll observe the reconstructed 3D points, enhanced with additional annotations:
+
+* The green plane represents the 'stroke plane.'
+* The three arrows in the center define the insect's internal 3D coordinate system.
+* Each wing features two arrows representing the chord and span (x and y axes) of the wing's coordinate system
+
