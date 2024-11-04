@@ -42,12 +42,26 @@
   Get a glimpse into the research and development I conducted during my time at the Micro-Flight Lab.
 </p>
 
-### 📹 Raw Video Footage
+### 🎥 Experimental Setup
+
 <p align="left">
-  Below is a raw video captured by the lab's high-speed cameras, operating at an impressive 16,000 frames per second (fps). For context, the wingbeat frequency here is around 200 Hz.
+  Four synchronized and calibrated high-speed cameras, capturing at an impressive 16,000 frames per second (fps), record flying insects in real-time. For context, the wingbeat frequency here is around 200 Hz, allowing us to capture intricate details of wing and body dynamics.
+  <br>
 </p>
+Illustration taken from this paper https://journals.biologists.com/jeb/article/226/21/jeb245853/334548/A-hull-reconstruction-reprojection-method-for-pose#supplementary-data.
+
+
+![cameras setup ilustration](https://github.com/user-attachments/assets/39f03fa6-6329-402b-a157-74e59f697dd7)
+
+
+### 📹 Raw Video Footage
+  Below is a raw video from the lab’s high-speed camera setup:
 
 https://github.com/user-attachments/assets/1ed13019-c875-41ce-ad8b-11bbfa9b6acf
+
+
+
+
 
 
 ### 🎥 Video Analysis Pipeline Output
@@ -58,7 +72,7 @@ https://github.com/user-attachments/assets/1ed13019-c875-41ce-ad8b-11bbfa9b6acf
 
 https://github.com/user-attachments/assets/32de3fc4-4b75-4a7f-87d8-c7543d095f28
 
-**On the left side**, you’ll see the **hand-picked feature points**, automatically detected across all four views. This detection is powered by a **trained ensemble of deep neural networks**, which **identifies points** in each view independently. the points are then **aggregated using optimization into optimal 3D points** for the entire **multi-view setup**.
+**On the left side**, you’ll see the **hand-picked feature points**, automatically detected across all four views. This detection is powered by a **trained ensemble of deep neural networks**, which **identifies points** in each view independently. These 2D detection from multiple views are later **aggregated using novel optimization technics into optimal 3D points**.
 
 **On the right side**, you’ll observe the **reconstructed 3D points**, enhanced with additional annotations:
 
