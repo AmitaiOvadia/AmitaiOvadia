@@ -72,7 +72,7 @@ https://github.com/user-attachments/assets/1ed13019-c875-41ce-ad8b-11bbfa9b6acf
 
 https://github.com/user-attachments/assets/32de3fc4-4b75-4a7f-87d8-c7543d095f28
 
-**On the left side**, you’ll see the **hand-picked feature points**, automatically detected across all four views. This detection is powered by a **trained ensemble of deep neural networks**, which **identifies points** in each view independently. These 2D detection from multiple views are later **aggregated using novel optimization technics into optimal 3D points**.
+**On the left side**, you’ll see the **hand-picked feature points**, automatically detected across all four views. This detection is powered by a **trained ensemble of deep neural networks**, which **identifies points** in each view independently. These 2D detections from multiple views are later **aggregated using novel optimization technics into optimal 3D points**.
 
 **On the right side**, you’ll observe the **reconstructed 3D points**, enhanced with additional annotations:
 
