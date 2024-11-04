@@ -13,11 +13,11 @@
 
 - :books: I’m currently pursuing my master's degree in **Computer Science** at the Hebrew University of Jerusalem. I have recently completed a dual major BSc in **CS & Physics** 
 - :microscope: As for my MSc, I'm part of the [Micro-Flight Lab](https://www.beatus-lab.org/) - Our goal Understanding the mechanisms of insect flight and implementing them in biomimetic robots. <br>
-- My part is Developing and deploying a **deep learning features and objects detection** pipeline,<br>
-    to detect interest points on the insects’ bodies and wings during flight.<br>
-  I'm performing **3D reconstruction and simulation** of insects’ Flight and wings’ dynamics,<br>
-    using detections from **multiple high speed cameras**.
-
+- My part is **Developing and utilizing an end-to-end computer vision system**, which includes:
+  - **Multi-camera calibration** for capturing high-speed videos (16K fps) of flying insects.
+  - Engineering an **ensemble of instance segmentation and pose estimation deep neural networks (DNNs)**; labeling, training, and deploying them to analyze insects’ **flight dynamics**.
+  - Performing **3D reconstruction and simulation** of insects’ **wings and body dynamics** using multi-camera detections, applying **novel optimization methods** that have achieved **unprecedented, state-of-the-art results** in the field.
+  - **Devising and utilizing several validation methods** to ensure the **stability and accuracy** of the system.
 - My other projects include all kinds of machine learning, deep learning and computer vision challenges 
 
 <p align="center">
