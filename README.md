@@ -63,7 +63,7 @@ On the left side, you’ll see the hand-picked feature points, automatically det
 
 On the right side, you’ll observe the reconstructed 3D points, enhanced with additional annotations:
 
-* The green plane represents the 'stroke plane.'
+* The green plane represents the 'stroke plane': the imaginary plane through which the insect's wings move during each wingbeat.
 * The three arrows in the center define the insect's internal 3D coordinate system.
 * Each wing features two arrows representing the chord and span (x and y axes) of the wing's coordinate system
 
