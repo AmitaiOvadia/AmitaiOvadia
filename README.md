@@ -33,12 +33,3 @@
 <img src="https://img.shields.io/badge/skimage-%23F7DF1E.svg?style=for-the-badge&logo=scikit-image&logoColor=black" width="80" height="22">
 <img src="https://img.shields.io/badge/opencv-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white" width="80" height="22">
 </p>
-
----
-
-<h2>📹 Project Demo</h2>
-<video controls src="https://github.com/AmitaiOvadia/Micro-Flight-Lab/blob/main/videos/videos/4 views - Made with Clipchamp.mp4" width="600">
-  Your browser does not support the video tag.
-</video>
-
-
