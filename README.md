@@ -37,7 +37,7 @@
 ---
 
 <h2>📹 Project Demo</h2>
-<video controls src="[videos/4 views - Made with Clipchamp.mp4](https://github.com/AmitaiOvadia/Micro-Flight-Lab/blob/11707aca1b20732fb06755709598058e7d433409/videos/4%20views%20-%20Made%20with%20Clipchamp.mp4)" width="600">
+<video controls src="https://github.com/AmitaiOvadia/Micro-Flight-Lab/blob/main/videos/videos/4 views - Made with Clipchamp.mp4" width="600">
   Your browser does not support the video tag.
 </video>
 
