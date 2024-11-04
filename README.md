@@ -67,4 +67,7 @@ On the right side, you’ll observe the reconstructed 3D points, enhanced with a
 * The three arrows in the center define the insect's internal 3D coordinate system.
 * Each wing features two arrows representing the chord and span (x and y axes) of the wing's coordinate system
 
-[View Interactive Plotly Visualization](https://github.com/AmitaiOvadia/AmitaiOvadia/blob/main/movie_html.html)
+
+### Interactive Plotly Visualization
+To view the interactive Plotly visualization, download the file and open it in a browser:
+[Download Plotly Visualization](https://github.com/AmitaiOvadia/AmitaiOvadia/blob/main/movie_html.html)
