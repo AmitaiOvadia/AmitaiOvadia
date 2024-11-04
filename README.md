@@ -34,6 +34,14 @@
 <img src="https://img.shields.io/badge/opencv-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white" width="80" height="22">
 </p>
 
+---
 
+<h2>📹 Project Demo</h2>
+<p>
+  This is a video captured using our high-speed cameras: <br>
+  <a href="https://www.youtube.com/watch?v=UKwip9R9_7Y">
+    <img src="https://img.youtube.com/vi/UKwip9R9_7Y/0.jpg" alt="High Speed Camera Video Thumbnail" width="400"/>
+  </a>
+</p>
 
 
