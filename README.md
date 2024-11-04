@@ -58,15 +58,13 @@ https://github.com/user-attachments/assets/1ed13019-c875-41ce-ad8b-11bbfa9b6acf
 
 https://github.com/user-attachments/assets/32de3fc4-4b75-4a7f-87d8-c7543d095f28
 
-On the left side, you’ll see the hand-picked feature points, automatically detected across all four views. This detection is powered by an trained ensemble of deep neural networks, which identifies points in each view independently and then aggregates them into optimal 3D points for the entire multi-view setup.
+**On the left side**, you’ll see the **hand-picked feature points**, automatically detected across all four views. This detection is powered by a **trained ensemble of deep neural networks**, which **identifies points** in each view independently. the points are then **aggregated using optimization into optimal 3D points** for the entire **multi-view setup**.
 
+**On the right side**, you’ll observe the **reconstructed 3D points**, enhanced with additional annotations:
 
-On the right side, you’ll observe the reconstructed 3D points, enhanced with additional annotations:
-
-* The green plane represents the 'stroke plane': the imaginary plane through which the insect's wings move during each wingbeat.
-* The three arrows in the center define the insect's internal 3D coordinate system.
-* Each wing features two arrows representing the chord and span (x and y axes) of the wing's coordinate system
-
+* The **green plane** represents the **'stroke plane'**: the imaginary plane through which the insect's wings move during each wingbeat.
+* The **three arrows** in the center define the insect's **internal 3D coordinate system**.
+* Each wing features **two arrows** representing the **chord and span** (x and y axes) of the wing's coordinate system.
 
 ### Interactive Plotly Visualization
 To view the interactive Plotly visualization, download the file and open it in a browser:
