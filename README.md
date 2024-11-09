@@ -66,8 +66,14 @@ https://github.com/user-attachments/assets/1ed13019-c875-41ce-ad8b-11bbfa9b6acf
 
 ### 🎥 Video Analysis Pipeline Output
 <p align="left">
-  The following video showcases the output from our video analysis pipeline.
+  The following videos showcases the output from our video analysis pipeline.
 </p>
+
+
+
+
+https://github.com/user-attachments/assets/68df9484-7771-43b7-a4eb-abb94684d480
+
 
 
 https://github.com/user-attachments/assets/32de3fc4-4b75-4a7f-87d8-c7543d095f28
