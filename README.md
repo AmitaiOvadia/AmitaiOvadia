@@ -59,7 +59,10 @@ Illustration taken from this paper https://journals.biologists.com/jeb/article/2
 
 https://github.com/user-attachments/assets/1ed13019-c875-41ce-ad8b-11bbfa9b6acf
 
-
+<video width="600" controls>
+  <source src="https://github.com/user-attachments/assets/1ed13019-c875-41ce-ad8b-11bbfa9b6acf" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 
 
