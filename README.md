@@ -48,7 +48,7 @@
   Four synchronized and calibrated high-speed cameras, capturing at an impressive 16,000 frames per second (fps), record flying insects in real-time. For context, the wingbeat frequency here is around 200 Hz, allowing us to capture intricate details of wing and body dynamics.
   <br>
 </p>
-Illustration taken from this paper #https://journals.biologists.com/jeb/article/226/21/jeb245853/334548/A-hull-reconstruction-reprojection-method-for-pose#supplementary-data.
+Illustration taken from this paper https://journals.biologists.com/jeb/article/226/21/jeb245853/334548/A-hull-reconstruction-reprojection-method-for-pose#supplementary-data.
 
 
 ![cameras setup ilustration](https://github.com/user-attachments/assets/39f03fa6-6329-402b-a157-74e59f697dd7)
