@@ -73,13 +73,20 @@ https://github.com/user-attachments/assets/1ed13019-c875-41ce-ad8b-11bbfa9b6acf
 </p>
 
 
-
-
 https://github.com/user-attachments/assets/68df9484-7771-43b7-a4eb-abb94684d480
 
+<video width="600" controls>
+  <source src="https://github.com/user-attachments/assets/68df9484-7771-43b7-a4eb-abb94684d480" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 
 https://github.com/user-attachments/assets/32de3fc4-4b75-4a7f-87d8-c7543d095f28
+
+<video width="600" controls>
+  <source src="https://github.com/user-attachments/assets/32de3fc4-4b75-4a7f-87d8-c7543d095f28" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 **On the left side**, you’ll see the **hand-picked feature points**, automatically detected across all four views. This detection is powered by a **trained ensemble of deep neural networks**, which **identifies points** in each view independently. These 2D detections from multiple views are later **aggregated using novel optimization technics into optimal 3D points**.
 
