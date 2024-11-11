@@ -96,7 +96,16 @@ https://github.com/user-attachments/assets/32de3fc4-4b75-4a7f-87d8-c7543d095f28
 * The **three arrows** in the center define the insect's **internal 3D coordinate system**.
 * Each wing features **two arrows** representing the **chord and span** (x and y axes) of the wing's coordinate system.
 
-<a href="https://amitaiovadia.github.io/AmitaiOvadia/movie_html.html" target="_blank">Open static movie Movie HTML</a>
-
-<a href="https://amitaiovadia.github.io/AmitaiOvadia/3d_analysis_with_slider.html" target="_blank">Open dynamic movie Movie HTML</a>
+<h2 align="center">🎬 Explore My Visualizations 🎬</h2>
+<p align="center">
+  Dive into interactive visualizations showcasing my research and analyses. Click below to open in a new tab:
+</p>
+<p align="center">
+  <a href="https://amitaiovadia.github.io/AmitaiOvadia/movie_html.html" target="_blank">
+    <img src="https://img.shields.io/badge/Static_Movie_HTML-brightgreen?style=for-the-badge" alt="Static Movie HTML"/>
+  </a>
+  <a href="https://amitaiovadia.github.io/AmitaiOvadia/3d_analysis_with_slider.html" target="_blank">
+    <img src="https://img.shields.io/badge/Dynamic_Movie_HTML-blueviolet?style=for-the-badge" alt="Dynamic Movie HTML"/>
+  </a>
+</p>
 
