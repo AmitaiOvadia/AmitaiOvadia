@@ -100,9 +100,6 @@ https://github.com/user-attachments/assets/32de3fc4-4b75-4a7f-87d8-c7543d095f28
 To view the interactive Plotly visualization, download the file and open it in a browser:
 [Download Plotly Visualization](https://github.com/AmitaiOvadia/AmitaiOvadia/blob/main/movie_html.html)
 
-<h2>Interactive Plotly Visualization</h2>
-<iframe src="https://raw.githubusercontent.com/AmitaiOvadia/AmitaiOvadia/main/movie_html.html"
-        width="100%"
-        height="600px"
-        style="border:none;">
-</iframe>
+<a href="https://raw.githubusercontent.com/AmitaiOvadia/AmitaiOvadia/main/movie_html.html" target="_blank">
+  Open Interactive Plot
+</a>
