@@ -95,7 +95,3 @@ https://github.com/user-attachments/assets/32de3fc4-4b75-4a7f-87d8-c7543d095f28
 * The **green plane** represents the **'stroke plane'**: the imaginary plane through which the insect's wings move during each wingbeat.
 * The **three arrows** in the center define the insect's **internal 3D coordinate system**.
 * Each wing features **two arrows** representing the **chord and span** (x and y axes) of the wing's coordinate system.
-
-### Interactive Plotly Visualization
-To view the interactive Plotly visualization, download the file and open it in a browser:
-[Download Plotly Visualization](https://github.com/AmitaiOvadia/AmitaiOvadia/blob/main/movie_html.html)
