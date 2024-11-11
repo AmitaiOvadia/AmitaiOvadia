@@ -98,3 +98,5 @@ https://github.com/user-attachments/assets/32de3fc4-4b75-4a7f-87d8-c7543d095f28
 
 <a href="https://amitaiovadia.github.io/AmitaiOvadia/movie_html.html" target="_blank">Open static movie Movie HTML</a>
 
+<a href="https://amitaiovadia.github.io/AmitaiOvadia/3d_analysis_with_slider.html" target="_blank">Open dynamic movie Movie HTML</a>
+
