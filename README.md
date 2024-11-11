@@ -96,10 +96,19 @@ https://github.com/user-attachments/assets/32de3fc4-4b75-4a7f-87d8-c7543d095f28
 * The **three arrows** in the center define the insect's **internal 3D coordinate system**.
 * Each wing features **two arrows** representing the **chord and span** (x and y axes) of the wing's coordinate system.
 
-### Interactive Plotly Visualization
-To view the interactive Plotly visualization, download the file and open it in a browser:
-[Download Plotly Visualization](https://github.com/AmitaiOvadia/AmitaiOvadia/blob/main/movie_html.html)
+<div id="my-plot"></div>
+<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+<script>
+    var data = [
+        {
+            x: [1, 2, 3],
+            y: [10, 15, 13],
+            type: 'scatter'
+        }
+    ];
+    var layout = {
+        title: 'My Interactive Plot'
+    };
 
-<a href="https://raw.githubusercontent.com/AmitaiOvadia/AmitaiOvadia/main/movie_html.html" target="_blank">
-  Open Interactive Plot
-</a>
+    Plotly.newPlot('my-plot', data, layout);
+</script>
