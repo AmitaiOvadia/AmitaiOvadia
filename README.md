@@ -99,7 +99,13 @@ https://github.com/user-attachments/assets/32de3fc4-4b75-4a7f-87d8-c7543d095f28
 
 <h2 align="center">🎬 Explore My Visualizations 🎬</h2>
 <p align="center">
-  Dive into interactive visualizations showcasing my research and analyses. Click below to open in a new tab:
+  Dive into interactive visualizations showcasing my research and analyses.
+  
+* The **static movie** provides an interactive summary of the flight event, visualizing the positions of the wingtips and the center of mass for each frame. Additionally, it depicts the orientation of the fly at every wingbeat (~70 frames), represented as a cross marker.
+* The **dynamic movie** offers an interactive simulation of the flight dynamics across all frames, showcasing the tracked 3D points, the fly's internal moving coordinate system, and the coordinate systems of each wing, represented by the chord and span of the wings
+
+    
+Click below to open in a new tab:
 </p>
 <p align="center">
   <a href="https://amitaiovadia.github.io/AmitaiOvadia/movie_html.html" target="_blank">
