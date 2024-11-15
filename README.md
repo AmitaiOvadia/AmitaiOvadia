@@ -11,6 +11,9 @@
     </a>
 </p>
 
+![alpes compresed](https://github.com/user-attachments/assets/6df80379-80e0-48c6-ab1d-39fc8ba08d4d)
+
+
 - :books: I’m currently pursuing my master's degree in **Computer Science** at the Hebrew University of Jerusalem, and completed a dual major BSc in **CS & Physics**. 
 - My interests include:
   - **Machine Learning**
