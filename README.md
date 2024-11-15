@@ -11,8 +11,14 @@
     </a>
 </p>
 
-- :books: I’m currently pursuing my master's degree in **Computer Science** at the Hebrew University of Jerusalem and I specialize in **Machine Learning**, **Deep Learning**, **SLAM**, **Image Processing**, **3D Computer Vision** and in particular **camera calibration and geometry**.
-  Furthermore, I have completed a dual major BSc in **CS & Physics**. 
+- :books: I’m currently pursuing my master's degree in **Computer Science** at the Hebrew University of Jerusalem.
+- My interests include:
+  - **Machine Learning**
+  - **Deep Learning**
+  - **SLAM (Simultaneous Localization and Mapping)**
+  - **Image Processing**
+  - **3D Computer Vision**
+  - **Camera Calibration and Geometry**  Furthermore, I have completed a dual major BSc in **CS & Physics**. 
 - :microscope: As for my MSc, I'm part of the [Micro-Flight Lab](https://www.beatus-lab.org/) - Our goal Understanding the mechanisms of insect flight and implementing them in biomimetic robots. <br>
 - My part is **Developing and utilizing an end-to-end computer vision system**, which includes:
   - **Multi-camera calibration** for capturing high-speed videos (16K fps) of flying insects.
