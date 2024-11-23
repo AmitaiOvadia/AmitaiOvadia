@@ -126,5 +126,12 @@ Click below to open in a new tab:
   </a>
 </p>
 
+## Basic Pose Estimation CNN Architecture
+
+
 [View the Pose Estimation CNN Architecture (PDF)](Pose%20Estimation%20CNN%20Architecture.pdf)
+
+## Multiview Pose Estimation CNN Architecture
+
+[View the Multiview Pose Estimation CNN Architecture PDF](Multiview%20Pose%20Estimation%20CNN%20Architecture.pdf)
 
