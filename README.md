@@ -127,3 +127,4 @@ Click below to open in a new tab:
 </p>
 
 [View the Pose Estimation CNN Architecture (PDF)](Pose%20Estimation%20CNN%20Architecture.pdf)
+
