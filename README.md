@@ -128,10 +128,14 @@ Click below to open in a new tab:
 
 ## Basic Pose Estimation CNN Architecture
 
+![Pose Estimation CNN Architecture](https://github.com/user-attachments/assets/52722193-c35e-4a59-9923-3efa6fac76f6)
 
 [View the Pose Estimation CNN Architecture (PDF)](Pose%20Estimation%20CNN%20Architecture.pdf)
 
 ## Multiview Pose Estimation CNN Architecture
+
+![Multiview Pose Estimation CNN Architecture](https://github.com/user-attachments/assets/7fce0204-407e-4c36-bb92-74f014fd29e9)
+
 
 [View the Multiview Pose Estimation CNN Architecture PDF](Multiview%20Pose%20Estimation%20CNN%20Architecture.pdf)
 
