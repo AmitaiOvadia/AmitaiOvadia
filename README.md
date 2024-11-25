@@ -128,9 +128,9 @@ Click below to open in a new tab:
 
 ## Basic Pose Estimation CNN Architecture
 
-The input to the pose estimation CNN consists of a 5-channel image: three temporal channels (frames at -7, 0, and +7 relative to the present) and two binary segmentation channels, serving as an attention mechanism to resolve left-right wing ambiguity.
+The input to the pose estimation CNN is a 5-channel image comprising three temporal channels (corresponding to frames at -7, 0, and +7 relative to the current frame) and two binary segmentation masks, which act as an attention mechanism to address left-right wing ambiguity. The output is a multi-channel image containing C Gaussian heatmaps, each representing a distinct feature point.
 
-![pose estimation input](https://github.com/user-attachments/assets/7e423aa4-7908-4f03-bf78-aef7516aab99)
+![Pose estimation CNN input and output](https://github.com/user-attachments/assets/aa639b7f-2541-4748-842f-c0f7a236ef42)
 
 
 ![Pose Estimation CNN Architecture](https://github.com/user-attachments/assets/52722193-c35e-4a59-9923-3efa6fac76f6)
