@@ -68,10 +68,12 @@ Illustration taken from this <a href="https://journals.biologists.com/jeb/articl
 ### 📹 Raw Video Footage
   Below is a raw video from the lab’s high-speed camera setup:
 
-https://github.com/user-attachments/assets/1ed13019-c875-41ce-ad8b-11bbfa9b6acf
+
+https://github.com/user-attachments/assets/71738fd8-d2e1-4715-94ee-54cc1646129f
+
 
 <video width="600" controls>
-  <source src="https://github.com/user-attachments/assets/1ed13019-c875-41ce-ad8b-11bbfa9b6acf" type="video/mp4">
+  <source src="[https://github.com/user-attachments/assets/1ed13019-c875-41ce-ad8b-11bbfa9b6acf](https://github.com/user-attachments/assets/71738fd8-d2e1-4715-94ee-54cc1646129f)" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
