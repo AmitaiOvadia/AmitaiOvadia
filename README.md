@@ -143,9 +143,6 @@ The input to the pose estimation CNN is a 5-channel image comprising three tempo
 
 ## Validation
 
-
-!['wings_phi_left', 'wings_phi_right' _smoothed_DETECTION_ERROR](https://github.com/user-attachments/assets/2b6d593c-f53e-40f0-a837-aafe4ae9d632)
-!['wings_theta_left', 'wings_theta_right' _smoothed_DETECTION_ERROR](https://github.com/user-attachments/assets/370a6f5c-4997-4ea3-a265-1fcc6c1b5c38)
-!['wings_psi_left', 'wings_psi_right' _smoothed_DETECTION_ERROR](https://github.com/user-attachments/assets/d52c6a0c-b03c-4f28-a086-ee01ffee586f)
+![combined_analysis_results_grid](https://github.com/user-attachments/assets/566764f3-577b-4a9a-93c6-960cb1f439f5)
 
 
