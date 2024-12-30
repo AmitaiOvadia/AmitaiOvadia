@@ -77,7 +77,15 @@ https://github.com/user-attachments/assets/71738fd8-d2e1-4715-94ee-54cc1646129f
   Your browser does not support the video tag.
 </video>
 
+**The Method**
+* We developed a **robust 3D tracking system** to capture specific **feature points** on a fly’s **wings and body**.
+* We employed a **multi-camera 2D tracker** powered by an **ensemble of deep learning models**, and aggregated **multi-view detections** into accurate 3D reconstructions.
+* We Derived the **fly’s geometry**: **body orientation** and **wing angles** using these tracked points.
 
+**Main challenges**
+* Working with a **small, custom dataset**, leaving **no off-the-shelf solutions** available.
+* Handling **multiple self-occlusions**, where **feature points may be unseen** in many frames, and determining **which cameras should be used** at any given time.
+* Ensuring **robustness and outlier-free** analysis for **every** recorded movie.
 
 
 ### 🎥 Video Analysis Pipeline Output
